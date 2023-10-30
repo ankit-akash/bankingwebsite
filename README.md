@@ -35,7 +35,7 @@ This is a simple banking website project that utilizes PHP, CSS, Bootstrap, SQL,
 
 5. Start your XAMPP Apache and MySQL services.
 
-6. Open the website in your browser by navigating to `http://localhost/your-folder-name`.
+6. Open the website in your browser by navigating to `http://localhost/swiss_bank/index.php`.
 
 ## Usage
 
@@ -60,4 +60,4 @@ The project includes a MySQL database with the following tables:
 - `transactions` - Records all money transactions between accounts.
 
 ## HomePage
-  ![swissbank](https://github.com/ankit-akash/bankingwebsite/assets/75488501/2167997c-98a8-4164-bb71-e7f6fa1281db)
+![swissbank](https://github.com/ankit-akash/bankingwebsite/assets/75488501/c23f9117-7f33-474c-ae22-8228690e54ec)
