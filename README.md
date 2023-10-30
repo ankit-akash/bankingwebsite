@@ -58,3 +58,6 @@ The project includes a MySQL database with the following tables:
 - `accounts` - Stores account information, including account balances.
 
 - `transactions` - Records all money transactions between accounts.
+
+## HomePage
+  ![swissbank](https://github.com/ankit-akash/bankingwebsite/assets/75488501/2167997c-98a8-4164-bb71-e7f6fa1281db)
